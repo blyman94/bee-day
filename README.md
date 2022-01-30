@@ -1,4 +1,4 @@
-# bee-day
+# Bee Day Source Code
 Source code for the 2D bullet-hell action-platformer, Bee Day. Made with Unity.
 
 ## Notes
